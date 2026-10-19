@@ -1,0 +1,284 @@
+{
+  "checkedAt": "2026-10-19T14:26:51.318Z",
+  "browser": "155.0.4283.62",
+  "viewportHeight": 700,
+  "deviceScaleFactor": 1,
+  "cases": [
+    {
+      "name": "table-800",
+      "source": "Paired local baseline and fixed documentation builds",
+      "before": {
+        "width": 800,
+        "height": 700,
+        "scrollX": 0,
+        "scrollY": 2071,
+        "rootScroll": 854,
+        "rootClient": 800,
+        "rootOverflow": true,
+        "columns": "184px 509px",
+        "main": {
+          "left": 244,
+          "right": 753,
+          "top": -2015,
+          "bottom": 15754.921875,
+          "width": 509
+        },
+        "table": {
+          "left": 276,
+          "right": 853.78125,
+          "top": 120,
+          "bottom": 669,
+          "width": 577.78125
+        },
+        "tableVisibleRight": 853.78125,
+        "nav": null,
+        "tableIntrudesIntoNavigation": false,
+        "wrappers": []
+      },
+      "after": {
+        "width": 800,
+        "height": 700,
+        "scrollX": 0,
+        "scrollY": 2071,
+        "rootScroll": 785,
+        "rootClient": 800,
+        "rootOverflow": false,
+        "columns": "184px 509px",
+        "main": {
+          "left": 244,
+          "right": 753,
+          "top": -2015,
+          "bottom": 15712.921875,
+          "width": 509
+        },
+        "table": {
+          "left": 143,
+          "right": 720.78125,
+          "top": 120,
+          "bottom": 669,
+          "width": 577.78125
+        },
+        "tableVisibleRight": 720.78125,
+        "nav": null,
+        "tableIntrudesIntoNavigation": false,
+        "wrappers": [
+          {
+            "left": 276,
+            "right": 721,
+            "top": 120,
+            "bottom": 669,
+            "width": 445,
+            "client": 445,
+            "scroll": 578,
+            "scrollLeft": 133,
+            "overflowX": "auto"
+          },
+          {
+            "left": 276,
+            "right": 721,
+            "top": 4473.671875,
+            "bottom": 4677.671875,
+            "width": 445,
+            "client": 445,
+            "scroll": 445,
+            "scrollLeft": 0,
+            "overflowX": "auto"
+          },
+          {
+            "left": 276,
+            "right": 721,
+            "top": 9543.75,
+            "bottom": 10142.75,
+            "width": 445,
+            "client": 445,
+            "scroll": 445,
+            "scrollLeft": 0,
+            "overflowX": "auto"
+          }
+        ]
+      }
+    },
+    {
+      "name": "table-1025",
+      "source": "Paired local baseline and fixed documentation builds",
+      "before": {
+        "width": 1025,
+        "height": 700,
+        "scrollX": 0,
+        "scrollY": 2299,
+        "rootScroll": 1010,
+        "rootClient": 1025,
+        "rootOverflow": false,
+        "columns": "184px 546px 144px",
+        "main": {
+          "left": 252,
+          "right": 798,
+          "top": -2243,
+          "bottom": 15045.265625,
+          "width": 546
+        },
+        "table": {
+          "left": 284,
+          "right": 861.78125,
+          "top": -253.890625,
+          "bottom": 295.109375,
+          "width": 577.78125
+        },
+        "tableVisibleRight": 861.78125,
+        "nav": {
+          "left": 834,
+          "right": 978,
+          "top": 24,
+          "bottom": 386,
+          "width": 144
+        },
+        "tableIntrudesIntoNavigation": true,
+        "wrappers": []
+      },
+      "after": {
+        "width": 1025,
+        "height": 700,
+        "scrollX": 0,
+        "scrollY": 2299,
+        "rootScroll": 1010,
+        "rootClient": 1025,
+        "rootOverflow": false,
+        "columns": "184px 546px 144px",
+        "main": {
+          "left": 252,
+          "right": 798,
+          "top": -2243,
+          "bottom": 15045.265625,
+          "width": 546
+        },
+        "table": {
+          "left": 188,
+          "right": 765.78125,
+          "top": -253.890625,
+          "bottom": 295.109375,
+          "width": 577.78125
+        },
+        "tableVisibleRight": 765.78125,
+        "nav": {
+          "left": 834,
+          "right": 978,
+          "top": 24,
+          "bottom": 386,
+          "width": 144
+        },
+        "tableIntrudesIntoNavigation": false,
+        "wrappers": [
+          {
+            "left": 284,
+            "right": 766,
+            "top": -253.890625,
+            "bottom": 295.109375,
+            "width": 482,
+            "client": 482,
+            "scroll": 578,
+            "scrollLeft": 96,
+            "overflowX": "auto"
+          },
+          {
+            "left": 284,
+            "right": 766,
+            "top": 4089.984375,
+            "bottom": 4293.984375,
+            "width": 482,
+            "client": 482,
+            "scroll": 482,
+            "scrollLeft": 0,
+            "overflowX": "auto"
+          },
+          {
+            "left": 284,
+            "right": 766,
+            "top": 9103.140625,
+            "bottom": 9660.140625,
+            "width": 482,
+            "client": 482,
+            "scroll": 482,
+            "scrollLeft": 0,
+            "overflowX": "auto"
+          }
+        ]
+      }
+    },
+    {
+      "name": "inline-code-696",
+      "source": "Live SSO page with minmax-only experiment vs final CSS patch (SSO is not included in repository docs generator)",
+      "before": {
+        "width": 696,
+        "height": 700,
+        "scrollX": 0,
+        "scrollY": 7609,
+        "rootScroll": 730,
+        "rootClient": 696,
+        "rootOverflow": true,
+        "columns": "184px 405px",
+        "main": {
+          "left": 244,
+          "right": 649,
+          "top": -7496,
+          "bottom": 7989.109375,
+          "width": 405
+        },
+        "table": null,
+        "nav": null,
+        "tableIntrudesIntoNavigation": false,
+        "wrappers": []
+      },
+      "after": {
+        "width": 696,
+        "height": 700,
+        "scrollX": 0,
+        "scrollY": 7588,
+        "rootScroll": 681,
+        "rootClient": 696,
+        "rootOverflow": false,
+        "columns": "184px 405px",
+        "main": {
+          "left": 244,
+          "right": 649,
+          "top": -7475,
+          "bottom": 8010.109375,
+          "width": 405
+        },
+        "table": null,
+        "nav": null,
+        "tableIntrudesIntoNavigation": false,
+        "wrappers": []
+      },
+      "codeBefore": {
+        "whiteSpace": "normal",
+        "overflowWrap": "normal",
+        "rects": [
+          {
+            "left": 308,
+            "right": 729.875,
+            "top": 240.109375,
+            "bottom": 258.109375
+          }
+        ]
+      },
+      "codeAfter": {
+        "whiteSpace": "normal",
+        "overflowWrap": "anywhere",
+        "rects": [
+          {
+            "left": 308,
+            "right": 624.40625,
+            "top": 240.109375,
+            "bottom": 258.109375
+          },
+          {
+            "left": 308,
+            "right": 413.46875,
+            "top": 261.109375,
+            "bottom": 279.109375
+          }
+        ]
+      }
+    }
+  ]
+}
